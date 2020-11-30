@@ -63,7 +63,7 @@
 
 過去に失われた戦士は、自分自身を終わらせながら、他の人のために何かを探し続けます。
 <p align="center">
-<a href="https://discord.gg/seken" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
+<a href="https://discord.gg/seken" target="blank"><img align="center" src="https://discordemoji.com/assets/emoji/3702_party_discord.gif" alt="discord" height="60" width="60"/></a>
 </p>
 
 
