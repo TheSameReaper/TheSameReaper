@@ -59,7 +59,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/51/7e/83/517e83eb97c94ffc7bec62db71c3c586.jpg" />
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/681276539882700860/782827679808356382/image0.png" />
 
 過去に失われた戦士は、自分自身を終わらせながら、他の人のために何かを探し続けます。
 <p align="center">
