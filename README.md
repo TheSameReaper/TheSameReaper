@@ -7,10 +7,13 @@
  <a href="https://youtube.com/channel/UCnqCu-HSGnS4VGia9kzzKOg" target="blank"><img align="center" src="https://media.tenor.com/images/3ebef31dd39a3e4d01e1acdcfe71cbfe/tenor.gif" alt="TheSameReaper" height="100" width="120" /></a>     
 </p>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
+
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
+
 
 <p align="center">Olá, me chamo Reaper, tenho 17 anos e atualmente estou morando em São Paulo, Brasil. Sou estudante de base geral e estou estudando Redes e Banco de Dados.
 </p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheSameReaper" alt="maykbrito" /> </p>
 
