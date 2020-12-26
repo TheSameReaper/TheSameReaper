@@ -11,6 +11,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheSameReaper" alt="maykbrito" /> </p>
 
+#                                                                    *Algumas de minhas redes sociais:*
+
 <p align="center">
 <a href="https://twitter.com/_TheReaper__" target="blank"><img align="center" src="https://www.gifservice.fr/img/gif-vignette-small/08fbc16f6a87f07f35676122a339b6c0/51748-multi-media-computer-software-internet-twitter.gif" alt="TheSameReaper" height="50" width="50" /></a>
 <a href="https://fb.com/_TheReaper__" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e4299734559659.56d57de04bda4.gif" height="50" width="50" /></a>
