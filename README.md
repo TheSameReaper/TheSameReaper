@@ -2,7 +2,14 @@
 
 
 
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
+<a href="https://twitter.com/_TheReaper__" target="blank"><img align="center" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" /></a>
+
+
+<p align="center">Olá, me chamo Reaper, tenho 17 anos e atualmente estou morando em São Paulo, Brasil. Sou estudante de base geral e estou estudando Redes e Banco de Dados.
+</p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheSameReaper" alt="maykbrito" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/_TheReaper__" target="blank"><img align="center" src="https://www.gifservice.fr/img/gif-vignette-small/08fbc16f6a87f07f35676122a339b6c0/51748-multi-media-computer-software-internet-twitter.gif" alt="TheSameReaper" height="50" width="50" /></a>
@@ -11,11 +18,6 @@
  <a href="https://youtube.com/channel/UCnqCu-HSGnS4VGia9kzzKOg" target="blank"><img align="center" src="https://media.tenor.com/images/3ebef31dd39a3e4d01e1acdcfe71cbfe/tenor.gif" alt="TheSameReaper" height="100" width="120" /></a>     
 </p>
 
-<p align="center">Olá, me chamo Reaper, tenho 17 anos e atualmente estou morando em São Paulo, Brasil. Sou estudante de base geral e estou estudando Redes e Banco de Dados.
-</p>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheSameReaper" alt="maykbrito" /> </p>
 
 #                                                                    *MEU PC*
 
