@@ -2,7 +2,7 @@
 
 
 
-<a href="https://twitter.com/_TheReaper__" target="blank"><img align="center" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" /></a>
+<a href="https://youtu.be/dQw4w9WgXcQ?t=3" target="blank"><img align="center" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" /></a>
 
 
 <p align="center">Olá, me chamo Reaper, tenho 17 anos e atualmente estou morando em São Paulo, Brasil. Sou estudante de base geral e estou estudando Redes e Banco de Dados.
