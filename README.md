@@ -64,8 +64,7 @@
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/TheSameReaper "LeetCode")](https://github.com/TheSameReaper)
 
 
-
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/681276539882700860/782834029899808768/Webp.net-resizeimage.png" />
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="right" alt="GIF" src="https://media.discordapp.net/attachments/681276539882700860/782834029899808768/Webp.net-resizeimage.png" /></a>
 
 過去に失われた戦士は、自分自身を終わらせながら、他の人のために何かを探し続けます。
 <p align="center">
