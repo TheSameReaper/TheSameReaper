@@ -17,7 +17,7 @@
 <a href="https://twitter.com/_TheReaper__" target="blank"><img align="center" src="https://www.gifservice.fr/img/gif-vignette-small/08fbc16f6a87f07f35676122a339b6c0/51748-multi-media-computer-software-internet-twitter.gif" alt="TheSameReaper" height="50" width="50" /></a>
 <a href="https://fb.com/_TheReaper__" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e4299734559659.56d57de04bda4.gif" height="50" width="50" /></a>
 <a href="https://instagram.com/shitpost_sincero" target="blank"><img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="TheSameReaper" height="50" width="50" /></a>
- <a href="https://youtube.com/channel/UCnqCu-HSGnS4VGia9kzzKOg" target="blank"><img align="center" src="https://media.tenor.com/images/3ebef31dd39a3e4d01e1acdcfe71cbfe/tenor.gif" alt="TheSameReaper" height="100" width="120" /></a>     
+ <a href="https://youtube.com/channel/UCnqCu-HSGnS4VGia9kzzKOg" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" alt="TheSameReaper" height="100" width="120" /></a>     
 </p>
 
 
@@ -66,7 +66,7 @@
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/TheSameReaper "LeetCode")](https://github.com/TheSameReaper)
 
 
-<a href="https://youtu.be/llXumQKtasE?t=23" target="blank"><img align="right" alt="GIF" src="https://media.discordapp.net/attachments/681276539882700860/782834029899808768/Webp.net-resizeimage.png" /></a>
+<a href="https://youtu.be/llXumQKtasE?t=23" target="blank"><img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /></a>
 
 過去に失われた戦士は、自分自身を終わらせながら、他の人のために何かを探し続けます。
 <p align="center">
