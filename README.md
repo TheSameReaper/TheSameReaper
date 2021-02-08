@@ -66,7 +66,7 @@
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/TheSameReaper "LeetCode")](https://github.com/TheSameReaper)
 
 
-<a href="https://youtu.be/llXumQKtasE?t=23" target="blank"><img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /></a>
+<a href="https://youtu.be/dLOJiV0SkuI" target="blank"><img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /></a>
 
 過去に失われた戦士は、自分自身を終わらせながら、他の人のために何かを探し続けます。
 <p align="center">
